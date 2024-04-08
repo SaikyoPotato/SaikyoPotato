@@ -1,4 +1,9 @@
-### Hi there 👋
+## Why am I an LLM?
+### Because:
+1. I easily forget what was said earlier in the conversation making me look dumb
+2. I do not really understand what is talked about and instead say something barely appropiate but it doesn't quite fit
+3. I feel like I need to use lots of energy and resources to be able to socialize
+4. I sometimes remember things that aren't that way or things that didnt happen
 
 <!--
 **SaikyoPotato/SaikyoPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
